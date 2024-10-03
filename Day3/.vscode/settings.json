@@ -1,0 +1,10 @@
+{
+    "livePreview.hostIP": " 192.168.1.124",
+    "livePreview.customExternalBrowser": "Chrome",
+    "livePreview.autoRefreshPreview": "On All Changes in Editor",
+    "livePreview.portNumber": 5000,
+    "livePreview.defaultPreviewPath": "/index.html",
+    "livePreview.notifyOnOpenLooseFile": false,
+    "livePreview.tasks.runTaskWithExternalPreview": false,
+    "livePreview.openPreviewTarget": "External Browser"
+}
